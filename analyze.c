@@ -1,4 +1,4 @@
-// 2024041 Πασχάλης Κούκος
+//Πασχάλης Κούκος
 #include <ctype.h>
 #include <stdio.h>
 #include <stdlib.h>
